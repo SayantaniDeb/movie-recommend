@@ -17,7 +17,14 @@ Welcome to the Movie Recommend App! This application allows users to input their
 - [License](#license)
 - [Contact](#contact)
 
+
+
+
+
 ## About the Project
+
+https://github.com/user-attachments/assets/78bad3f0-30e2-4e7c-a74b-d35885c84de7
+
 
 The Movie Recommend App is a simple yet powerful tool that provides movie suggestions based on user input. Users can type in how they are feeling or what’s on their mind, and the app will respond with a movie recommendation that matches their mood or thoughts.
 
