@@ -151,7 +151,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Sayantani Deb - [Your Email](mailto:your-email@example.com)
+Sayantani Deb - [sayantani.1001@gmail.com](mailto:your-email@example.com)
 
 Project Link: [https://github.com/SayantaniDeb/movie-recommend](https://github.com/SayantaniDeb/movie-recommend)
 
